@@ -166,7 +166,7 @@ const campingSchoenblick: CampsiteConfig = {
       },
       {
         title: "Mit Bahn & Bus",
-        text: "Mit der Bahn bis Bad Ischl oder Salzburg, weiter mit dem Postbus an den See — Abholung nach Absprache.",
+        text: "Mit der Bahn bis Bad Ischl oder Salzburg, weiter mit dem Postbus an den See.",
       },
       {
         title: "Mit dem Flugzeug",
