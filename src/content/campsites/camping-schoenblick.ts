@@ -12,7 +12,6 @@ const campingSchoenblick: CampsiteConfig = {
   see: "Wolfgangsee",
   regionLong: "Wolfgangsee · Salzkammergut · Österreich",
 
-  theme: "schiefer",
   heroVariant: "center",
 
   claim: "Terrassen mit Blick über den Wolfgangsee",
