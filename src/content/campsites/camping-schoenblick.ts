@@ -204,6 +204,7 @@ const campingSchoenblick: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.725119, lng: 13.43773 },
     tel: "+43 (0)6137 7042",
     telHref: "tel:+4361377042",
     mail: "info@camping-schoenblick.at",
